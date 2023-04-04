@@ -38,3 +38,4 @@
 ![Node++](https://img.shields.io/badge/Notepad++-90E59A.svg?style=for-the-badge&logo=notepad%2B%2B&logoColor=black)
 
 ![](https://komarev.com/ghpvc/?username=Joca&style=for-the-badge)
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=120&section=footer"/>
