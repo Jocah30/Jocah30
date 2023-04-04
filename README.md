@@ -7,8 +7,8 @@
 <br>
 
 [🇵🇹] ➜ Portuguese
-#### ➜ Website Developer (Working on...) 🚧 
-#### ➜ Bot Discord Developer (Finishing...) 👨🏻‍💻
+#### ➜ Website Developer (Working on a Site...) 🚧 
+#### ➜ Bot Discord Developer (Finishing my first BOT...) 👨🏻‍💻
 
 <br>
 
